@@ -1,0 +1,399 @@
+TSwapMeSolver
+v7
+r0
+t305737820.893814
+cCheck dependencies
+cDistributed-CompileC build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.o /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.o /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver.o /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver normal ppc
+cLd /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver normal x86_64
+cLd /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver normal i386
+cCreateUniversalBinary /Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver.dSYM /Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5B440F00000000000000EE
+t1281049615
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/Users/lwy08/Documents/SwapMeSolver/Cell.h
+c000000004C889AF7000000000000045A
+t1284020983
+s1114
+
+N/Users/lwy08/Documents/SwapMeSolver/Enum.h
+c000000004C8853760000000000000142
+t1284002678
+s322
+
+N/Users/lwy08/Documents/SwapMeSolver/Grid.h
+c000000004C88A2F60000000000000E5B
+t1284023030
+s3675
+
+N/Users/lwy08/Documents/SwapMeSolver/Hello.h
+c000000004C87697200000000000000C4
+t1283942770
+s196
+i<Foundation/Foundation.h>
+
+N/Users/lwy08/Documents/SwapMeSolver/Hello.m
+c000000004C8769760000000000000127
+t1283942774
+s295
+i"Hello.h"
+
+N/Users/lwy08/Documents/SwapMeSolver/MyMove.h
+c000000004C889F6C00000000000002A0
+t1284022124
+s672
+
+N/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m
+c000000004C88F8D80000000000000402
+t1284045016
+s1026
+i"Enum.h"
+i"Cell.h"
+i"MyMove.h"
+i"Grid.h"
+
+N/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver_Prefix.pch
+c000000004C88480A000000000000003D
+t1283999754
+s61
+i<Foundation/Foundation.h>
+
+N/Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver
+t1284045020
+s82480
+
+N/Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver.dSYM
+t1284045020
+s102
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/Hello.o
+t2
+s0
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver
+t1284045020
+s25380
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.LinkFileList
+c000000004C889A2C000000000000007B
+t1284020780
+s123
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.o
+t1284045020
+s33720
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.s
+t1283930327
+s20123
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/Hello.o
+t2
+s0
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver
+t1284045020
+s25136
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver.LinkFileList
+c000000004C889A2C000000000000007A
+t1284020780
+s122
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver.o
+t1284045020
+s35076
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/Hello.o
+t2
+s0
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver
+t1284045020
+s23352
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.LinkFileList
+c000000004C889A2C000000000000007D
+t1284020780
+s125
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.o
+t1284045020
+s49432
+
+N/Users/lwy08/Documents/SwapMeSolver/enum.h
+c000000004C8848000000000000000146
+t1283999744
+s326
+
+N/var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-agtvjlpnuvskbqgoyihintwsjnrg/SwapMeSolver_Prefix.pch.gch
+t1283929904
+s40061712
+
+N/var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-ejrzjlbaymibxqaavvqfhrbrmipb/SwapMeSolver_Prefix.pch.gch
+t1283929904
+s39856720
+
+N/var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-hgutifzvirnjvlaidihjrfppkkld/SwapMeSolver_Prefix.pch.gch
+t1283929904
+s42564400
+
+C<C0012:'CompileC SwapMeSolver.o':P8:W0>
+s305623127.467039
+e305623127.697123
+r1
+xCompileC
+xbuild/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.o
+x/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305623127#305623127#0(0"0(0#0#50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m8029405159545332736#1563"    cd /Users/lwy08/Documents/SwapMeSolver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -F/Users/lwy08/Documents/SwapMeSolver/build/Release -I/Users/lwy08/Documents/SwapMeSolver/build/Release/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources/i386 -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources -include /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-hgutifzvirnjvlaidihjrfppkkld/SwapMeSolver_Prefix.pch -S /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.s0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305737819#305737819#0(1682"[WARN]warning: no rule to process file '$(PROJECT_DIR)/SwapMeSolver_Prefix.pch' of type sourcecode.c.h for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/Enum.h' of type sourcecode.c.h for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/Cell.h' of type sourcecode.c.h for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/MyMove.h' of type sourcecode.c.h for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/Grid.h' of type sourcecode.c.h for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/SwapMeSolver_Prefix.pch' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/Enum.h' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/Cell.h' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/MyMove.h' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/Grid.h' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/SwapMeSolver_Prefix.pch' of type sourcecode.c.h for architecture ppc[WARN]warning: no rule to process file '$(PROJECT_DIR)/Enum.h' of type sourcecode.c.h for architecture ppc[WARN]warning: no rule to process file '$(PROJECT_DIR)/Cell.h' of type sourcecode.c.h for architecture ppc[WARN]warning: no rule to process file '$(PROJECT_DIR)/MyMove.h' of type sourcecode.c.h for architecture ppc[WARN]warning: no rule to process file '$(PROJECT_DIR)/Grid.h' of type sourcecode.c.h for architecture ppc15(22@120"warning: no rule to process file '$(PROJECT_DIR)/SwapMeSolver_Prefix.pch' of type sourcecode.c.h for architecture x86_64305737819#18446744073709551615#0#0(1@0"0(22@103"warning: no rule to process file '$(PROJECT_DIR)/Enum.h' of type sourcecode.c.h for architecture x86_64305737819#18446744073709551615#0#0(1@0"0(22@103"warning: no rule to process file '$(PROJECT_DIR)/Cell.h' of type sourcecode.c.h for architecture x86_64305737819#18446744073709551615#0#0(1@0"0(22@105"warning: no rule to process file '$(PROJECT_DIR)/MyMove.h' of type sourcecode.c.h for architecture x86_64305737819#18446744073709551615#0#0(1@0"0(22@103"warning: no rule to process file '$(PROJECT_DIR)/Grid.h' of type sourcecode.c.h for architecture x86_64305737819#18446744073709551615#0#0(1@0"0(22@118"warning: no rule to process file '$(PROJECT_DIR)/SwapMeSolver_Prefix.pch' of type sourcecode.c.h for architecture i386305737819#18446744073709551615#0#0(1@0"0(22@101"warning: no rule to process file '$(PROJECT_DIR)/Enum.h' of type sourcecode.c.h for architecture i386305737819#18446744073709551615#0#0(1@0"0(22@101"warning: no rule to process file '$(PROJECT_DIR)/Cell.h' of type sourcecode.c.h for architecture i386305737819#18446744073709551615#0#0(1@0"0(22@103"warning: no rule to process file '$(PROJECT_DIR)/MyMove.h' of type sourcecode.c.h for architecture i386305737819#18446744073709551615#0#0(1@0"0(22@101"warning: no rule to process file '$(PROJECT_DIR)/Grid.h' of type sourcecode.c.h for architecture i386305737819#18446744073709551615#0#0(1@0"0(22@117"warning: no rule to process file '$(PROJECT_DIR)/SwapMeSolver_Prefix.pch' of type sourcecode.c.h for architecture ppc305737819#18446744073709551615#0#0(1@0"0(22@100"warning: no rule to process file '$(PROJECT_DIR)/Enum.h' of type sourcecode.c.h for architecture ppc305737819#18446744073709551615#0#0(1@0"0(22@100"warning: no rule to process file '$(PROJECT_DIR)/Cell.h' of type sourcecode.c.h for architecture ppc305737819#18446744073709551615#0#0(1@0"0(22@102"warning: no rule to process file '$(PROJECT_DIR)/MyMove.h' of type sourcecode.c.h for architecture ppc305737819#18446744073709551615#0#0(1@0"0(22@100"warning: no rule to process file '$(PROJECT_DIR)/Grid.h' of type sourcecode.c.h for architecture ppc305737819#18446744073709551615#0#0(1@0"0(0#1#0"8620341856#0"0#
+
+CCompileC build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/Hello.o /Users/lwy08/Documents/SwapMeSolver/Hello.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305635589.110254
+e305635589.232635
+r0
+xCompileC
+xbuild/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/Hello.o
+x/Users/lwy08/Documents/SwapMeSolver/Hello.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/lwy08/Documents/SwapMeSolver/Hello.m:11: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'Hello'
+lSLF07#2@51"Compile /Users/lwy08/Documents/SwapMeSolver/Hello.m305635589#305635589#0(119"/Users/lwy08/Documents/SwapMeSolver/Hello.m:11: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'Hello'1(4@63"Expected '=', ',', ';', 'asm' or '__attribute__' before 'Hello'305635589#0#119#0(6@43"/Users/lwy08/Documents/SwapMeSolver/Hello.m305635574#11#0#11#0#19"expected * before *0(0#0#43"/Users/lwy08/Documents/SwapMeSolver/Hello.m8625306816#1549"    cd /Users/lwy08/Documents/SwapMeSolver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -F/Users/lwy08/Documents/SwapMeSolver/build/Release -I/Users/lwy08/Documents/SwapMeSolver/build/Release/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources/i386 -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources -include /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-hgutifzvirnjvlaidihjrfppkkld/SwapMeSolver_Prefix.pch -c /Users/lwy08/Documents/SwapMeSolver/Hello.m -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/Hello.o1#
+
+CCompileC build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.o /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305692278.001167
+e305692278.381269
+r1
+xCompileC
+xbuild/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.o
+x/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305692278#305692278#0(0"0(0#0#50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m8640471808#1563"    cd /Users/lwy08/Documents/SwapMeSolver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -F/Users/lwy08/Documents/SwapMeSolver/build/Release -I/Users/lwy08/Documents/SwapMeSolver/build/Release/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources/i386 -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources -include /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-hgutifzvirnjvlaidihjrfppkkld/SwapMeSolver_Prefix.pch -c /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.o0#
+
+CCompileC build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/Hello.o /Users/lwy08/Documents/SwapMeSolver/Hello.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s305635589.231006
+e305635589.322573
+r0
+xCompileC
+xbuild/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/Hello.o
+x/Users/lwy08/Documents/SwapMeSolver/Hello.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/lwy08/Documents/SwapMeSolver/Hello.m:11: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'Hello'
+lSLF07#2@51"Compile /Users/lwy08/Documents/SwapMeSolver/Hello.m305635589#305635589#0(119"/Users/lwy08/Documents/SwapMeSolver/Hello.m:11: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'Hello'1(4@63"Expected '=', ',', ';', 'asm' or '__attribute__' before 'Hello'305635589#0#119#0(6@43"/Users/lwy08/Documents/SwapMeSolver/Hello.m305635574#11#0#11#0#19"expected * before *0(0#0#43"/Users/lwy08/Documents/SwapMeSolver/Hello.m8657865024#1556"    cd /Users/lwy08/Documents/SwapMeSolver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -F/Users/lwy08/Documents/SwapMeSolver/build/Release -I/Users/lwy08/Documents/SwapMeSolver/build/Release/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources/ppc -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources -include /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-ejrzjlbaymibxqaavvqfhrbrmipb/SwapMeSolver_Prefix.pch -c /Users/lwy08/Documents/SwapMeSolver/Hello.m -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/Hello.o1#
+
+CCompileC build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver.o /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s305692278.002453
+e305692278.368905
+r1
+xCompileC
+xbuild/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver.o
+x/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305692278#305692278#0(0"0(0#0#50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m8640445184#1570"    cd /Users/lwy08/Documents/SwapMeSolver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -F/Users/lwy08/Documents/SwapMeSolver/build/Release -I/Users/lwy08/Documents/SwapMeSolver/build/Release/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources/ppc -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources -include /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-ejrzjlbaymibxqaavvqfhrbrmipb/SwapMeSolver_Prefix.pch -c /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver.o0#
+
+CCompileC build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/Hello.o /Users/lwy08/Documents/SwapMeSolver/Hello.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305635589.107473
+e305635589.230866
+r0
+xCompileC
+xbuild/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/Hello.o
+x/Users/lwy08/Documents/SwapMeSolver/Hello.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/lwy08/Documents/SwapMeSolver/Hello.m:11: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'Hello'
+lSLF07#2@51"Compile /Users/lwy08/Documents/SwapMeSolver/Hello.m305635589#305635589#0(119"/Users/lwy08/Documents/SwapMeSolver/Hello.m:11: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'Hello'1(4@63"Expected '=', ',', ';', 'asm' or '__attribute__' before 'Hello'305635589#0#119#0(6@43"/Users/lwy08/Documents/SwapMeSolver/Hello.m305635574#11#0#11#0#19"expected * before *0(0#0#43"/Users/lwy08/Documents/SwapMeSolver/Hello.m8613619712#1555"    cd /Users/lwy08/Documents/SwapMeSolver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -F/Users/lwy08/Documents/SwapMeSolver/build/Release -I/Users/lwy08/Documents/SwapMeSolver/build/Release/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources/x86_64 -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources -include /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-agtvjlpnuvskbqgoyihintwsjnrg/SwapMeSolver_Prefix.pch -c /Users/lwy08/Documents/SwapMeSolver/Hello.m -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/Hello.o1#
+
+CCompileC build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.o /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305692277.841561
+e305692278.361940
+r1
+xCompileC
+xbuild/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.o
+x/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305692277#305692278#0(0"0(0#0#50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m8640590912#1569"    cd /Users/lwy08/Documents/SwapMeSolver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -F/Users/lwy08/Documents/SwapMeSolver/build/Release -I/Users/lwy08/Documents/SwapMeSolver/build/Release/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources/x86_64 -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources -include /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-agtvjlpnuvskbqgoyihintwsjnrg/SwapMeSolver_Prefix.pch -c /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.o0#
+
+CCreateUniversalBinary /Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver normal "x86_64 i386 ppc"
+s305737820.878744
+e305737820.881801
+r1
+xCreateUniversalBinary
+x/Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@73"CreateUniversalBinary build/Release/SwapMeSolver normal "x86_64 i386 ppc"305737820#305737820#0(0"0(0#0#51"/Users/lwy08/Documents/SwapMeSolver/x86_64 i386 ppc8620192800#504"    cd /Users/lwy08/Documents/SwapMeSolver    /usr/bin/lipo -create /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver -output /Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver0#
+
+CDistributed-CompileC build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.o /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305737819.718284
+e305737820.859629
+r1
+xDistributed-CompileC
+xbuild/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.o
+x/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m:3:
+o/Users/lwy08/Documents/SwapMeSolver/Cell.h: In function '-[Cell getColor]':
+o/Users/lwy08/Documents/SwapMeSolver/Cell.h:30: warning: return discards qualifiers from pointer target type
+oIn file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m:5:
+o/Users/lwy08/Documents/SwapMeSolver/Grid.h: In function '-[Grid initWithGrid:]':
+o/Users/lwy08/Documents/SwapMeSolver/Grid.h:35: warning: local declaration of 'grid' hides instance variable
+lSLF07#2@76"Distribute compilation of /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737819#305737820#0(525"In file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m:3:/Users/lwy08/Documents/SwapMeSolver/Cell.h: In function '-[Cell getColor]':/Users/lwy08/Documents/SwapMeSolver/Cell.h:30: warning: return discards qualifiers from pointer target typeIn file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m:5:/Users/lwy08/Documents/SwapMeSolver/Grid.h: In function '-[Grid initWithGrid:]':/Users/lwy08/Documents/SwapMeSolver/Grid.h:35: warning: local declaration of 'grid' hides instance variable2(22@51"Return discards qualifiers from pointer target type305737820#152#108#2(7@72"In file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737820#18446744073709551615#0#0(6@50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737816#3#0#3#0#0"0(13@97"Return discards qualifiers from pointer target type in /Users/lwy08/Documents/SwapMeSolver/Cell.h305737820#18446744073709551615#0#0(6@42"/Users/lwy08/Documents/SwapMeSolver/Cell.h305713783#30#0#30#0#0"0(6@42"/Users/lwy08/Documents/SwapMeSolver/Cell.h305713783#30#0#30#0#0"0(22@51"Local declaration of 'grid' hides instance variable305737820#417#108#2(7@72"In file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737820#18446744073709551615#0#0(6@50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737816#5#0#5#0#0"0(13@97"Local declaration of 'grid' hides instance variable in /Users/lwy08/Documents/SwapMeSolver/Grid.h305737820#18446744073709551615#0#0(6@42"/Users/lwy08/Documents/SwapMeSolver/Grid.h305715830#35#0#35#0#0"0(6@42"/Users/lwy08/Documents/SwapMeSolver/Grid.h305715830#35#0#35#0#0"0(0#0#50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m8621033248#1658"    cd /Users/lwy08/Documents/SwapMeSolver    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/4"    setenv DISTCC_SYSTEM "10.6.4 (10F569, i386)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -fpch-preprocess -F/Users/lwy08/Documents/SwapMeSolver/build/Release -I/Users/lwy08/Documents/SwapMeSolver/build/Release/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources/i386 -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources -include /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver_Prefix.pch -c /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.o0#
+
+CDistributed-CompileC build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver.o /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s305737819.720248
+e305737820.810469
+r1
+xDistributed-CompileC
+xbuild/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver.o
+x/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m:3:
+o/Users/lwy08/Documents/SwapMeSolver/Cell.h: In function '-[Cell getColor]':
+o/Users/lwy08/Documents/SwapMeSolver/Cell.h:30: warning: return discards qualifiers from pointer target type
+oIn file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m:5:
+o/Users/lwy08/Documents/SwapMeSolver/Grid.h: In function '-[Grid initWithGrid:]':
+o/Users/lwy08/Documents/SwapMeSolver/Grid.h:35: warning: local declaration of 'grid' hides instance variable
+lSLF07#2@76"Distribute compilation of /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737819#305737820#0(525"In file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m:3:/Users/lwy08/Documents/SwapMeSolver/Cell.h: In function '-[Cell getColor]':/Users/lwy08/Documents/SwapMeSolver/Cell.h:30: warning: return discards qualifiers from pointer target typeIn file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m:5:/Users/lwy08/Documents/SwapMeSolver/Grid.h: In function '-[Grid initWithGrid:]':/Users/lwy08/Documents/SwapMeSolver/Grid.h:35: warning: local declaration of 'grid' hides instance variable2(22@51"Return discards qualifiers from pointer target type305737820#152#108#2(7@72"In file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737820#18446744073709551615#0#0(6@50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737816#3#0#3#0#0"0(13@97"Return discards qualifiers from pointer target type in /Users/lwy08/Documents/SwapMeSolver/Cell.h305737820#18446744073709551615#0#0(6@42"/Users/lwy08/Documents/SwapMeSolver/Cell.h305713783#30#0#30#0#0"0(6@42"/Users/lwy08/Documents/SwapMeSolver/Cell.h305713783#30#0#30#0#0"0(22@51"Local declaration of 'grid' hides instance variable305737820#417#108#2(7@72"In file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737820#18446744073709551615#0#0(6@50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737816#5#0#5#0#0"0(13@97"Local declaration of 'grid' hides instance variable in /Users/lwy08/Documents/SwapMeSolver/Grid.h305737820#18446744073709551615#0#0(6@42"/Users/lwy08/Documents/SwapMeSolver/Grid.h305715830#35#0#35#0#0"0(6@42"/Users/lwy08/Documents/SwapMeSolver/Grid.h305715830#35#0#35#0#0"0(0#0#50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m8621067136#1665"    cd /Users/lwy08/Documents/SwapMeSolver    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/4"    setenv DISTCC_SYSTEM "10.6.4 (10F569, i386)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -fpch-preprocess -F/Users/lwy08/Documents/SwapMeSolver/build/Release -I/Users/lwy08/Documents/SwapMeSolver/build/Release/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources/ppc -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources -include /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver_Prefix.pch -c /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver.o0#
+
+CDistributed-CompileC build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.o /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305737819.716143
+e305737820.815073
+r1
+xDistributed-CompileC
+xbuild/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.o
+x/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m:3:
+o/Users/lwy08/Documents/SwapMeSolver/Cell.h: In function '-[Cell getColor]':
+o/Users/lwy08/Documents/SwapMeSolver/Cell.h:30: warning: return discards qualifiers from pointer target type
+oIn file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m:5:
+o/Users/lwy08/Documents/SwapMeSolver/Grid.h: In function '-[Grid initWithGrid:]':
+o/Users/lwy08/Documents/SwapMeSolver/Grid.h:35: warning: local declaration of 'grid' hides instance variable
+lSLF07#2@76"Distribute compilation of /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737819#305737820#0(525"In file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m:3:/Users/lwy08/Documents/SwapMeSolver/Cell.h: In function '-[Cell getColor]':/Users/lwy08/Documents/SwapMeSolver/Cell.h:30: warning: return discards qualifiers from pointer target typeIn file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m:5:/Users/lwy08/Documents/SwapMeSolver/Grid.h: In function '-[Grid initWithGrid:]':/Users/lwy08/Documents/SwapMeSolver/Grid.h:35: warning: local declaration of 'grid' hides instance variable2(22@51"Return discards qualifiers from pointer target type305737820#152#108#2(7@72"In file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737820#18446744073709551615#0#0(6@50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737816#3#0#3#0#0"0(13@97"Return discards qualifiers from pointer target type in /Users/lwy08/Documents/SwapMeSolver/Cell.h305737820#18446744073709551615#0#0(6@42"/Users/lwy08/Documents/SwapMeSolver/Cell.h305713783#30#0#30#0#0"0(6@42"/Users/lwy08/Documents/SwapMeSolver/Cell.h305713783#30#0#30#0#0"0(22@51"Local declaration of 'grid' hides instance variable305737820#417#108#2(7@72"In file included from /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737820#18446744073709551615#0#0(6@50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305737816#5#0#5#0#0"0(13@97"Local declaration of 'grid' hides instance variable in /Users/lwy08/Documents/SwapMeSolver/Grid.h305737820#18446744073709551615#0#0(6@42"/Users/lwy08/Documents/SwapMeSolver/Grid.h305715830#35#0#35#0#0"0(6@42"/Users/lwy08/Documents/SwapMeSolver/Grid.h305715830#35#0#35#0#0"0(0#0#50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m8620989856#1664"    cd /Users/lwy08/Documents/SwapMeSolver    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/4"    setenv DISTCC_SYSTEM "10.6.4 (10F569, i386)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -fpch-preprocess -F/Users/lwy08/Documents/SwapMeSolver/build/Release -I/Users/lwy08/Documents/SwapMeSolver/build/Release/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources/x86_64 -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources -include /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver_Prefix.pch -c /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.o0#
+
+CGenerateDSYMFile /Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver.dSYM /Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver
+s305737820.881895
+e305737820.893761
+r1
+xGenerateDSYMFile
+x/Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver.dSYM
+x/Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver
+lSLF07#2@75"GenerateDSYMFile build/Release/SwapMeSolver.dSYM build/Release/SwapMeSolver305737820#305737820#0(0"0(0#0#62"/Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver8620186976#209"    cd /Users/lwy08/Documents/SwapMeSolver    /Developer/usr/bin/dsymutil /Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver -o /Users/lwy08/Documents/SwapMeSolver/build/Release/SwapMeSolver.dSYM0#
+
+CLd /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver normal i386
+s305737820.859738
+e305737820.878645
+r1
+xLd
+x/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver
+xnormal
+xi386
+lSLF07#2@125"Link /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver305737820#305737820#0(0"0(0#0#0"8620202112#587"    cd /Users/lwy08/Documents/SwapMeSolver    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/lwy08/Documents/SwapMeSolver/build/Release -F/Users/lwy08/Documents/SwapMeSolver/build/Release -filelist /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver0#
+
+CLd /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver normal ppc
+s305737820.810615
+e305737820.834460
+r1
+xLd
+x/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver
+xnormal
+xppc
+lSLF07#2@124"Link /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver305737820#305737820#0(0"0(0#0#0"8620338592#584"    cd /Users/lwy08/Documents/SwapMeSolver    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/lwy08/Documents/SwapMeSolver/build/Release -F/Users/lwy08/Documents/SwapMeSolver/build/Release -filelist /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/ppc/SwapMeSolver0#
+
+CLd /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver normal x86_64
+s305737820.815469
+e305737820.843032
+r1
+xLd
+x/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver
+xnormal
+xx86_64
+lSLF07#2@127"Link /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver305737820#305737820#0(0"0(0#0#0"8620236704#593"    cd /Users/lwy08/Documents/SwapMeSolver    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/lwy08/Documents/SwapMeSolver/build/Release -F/Users/lwy08/Documents/SwapMeSolver/build/Release -filelist /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver0#
+
+CProcessPCH /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-agtvjlpnuvskbqgoyihintwsjnrg/SwapMeSolver_Prefix.pch.gch SwapMeSolver_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305622701.942183
+e305622704.564697
+r1
+xProcessPCH
+x/var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-agtvjlpnuvskbqgoyihintwsjnrg/SwapMeSolver_Prefix.pch.gch
+xSwapMeSolver_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SwapMeSolver_Prefix.pch305622701#305622704#0(0"0(0#0#59"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver_Prefix.pch8603351168#1455"    cd /Users/lwy08/Documents/SwapMeSolver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -F/Users/lwy08/Documents/SwapMeSolver/build/Release -I/Users/lwy08/Documents/SwapMeSolver/build/Release/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources/x86_64 -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources -c /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver_Prefix.pch -o /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-agtvjlpnuvskbqgoyihintwsjnrg/SwapMeSolver_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-ejrzjlbaymibxqaavvqfhrbrmipb/SwapMeSolver_Prefix.pch.gch SwapMeSolver_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s305622701.946501
+e305622704.659894
+r1
+xProcessPCH
+x/var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-ejrzjlbaymibxqaavvqfhrbrmipb/SwapMeSolver_Prefix.pch.gch
+xSwapMeSolver_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SwapMeSolver_Prefix.pch305622701#305622704#0(0"0(0#0#59"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver_Prefix.pch8608516512#1459"    cd /Users/lwy08/Documents/SwapMeSolver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -F/Users/lwy08/Documents/SwapMeSolver/build/Release -I/Users/lwy08/Documents/SwapMeSolver/build/Release/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources/ppc -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources -c /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver_Prefix.pch -o /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-ejrzjlbaymibxqaavvqfhrbrmipb/SwapMeSolver_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-hgutifzvirnjvlaidihjrfppkkld/SwapMeSolver_Prefix.pch.gch SwapMeSolver_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305622701.945349
+e305622704.792957
+r1
+xProcessPCH
+x/var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-hgutifzvirnjvlaidihjrfppkkld/SwapMeSolver_Prefix.pch.gch
+xSwapMeSolver_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SwapMeSolver_Prefix.pch305622701#305622704#0(0"0(0#0#59"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver_Prefix.pch8608750400#1451"    cd /Users/lwy08/Documents/SwapMeSolver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -F/Users/lwy08/Documents/SwapMeSolver/build/Release -I/Users/lwy08/Documents/SwapMeSolver/build/Release/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources/i386 -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Release/SwapMeSolver.build/DerivedSources -c /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver_Prefix.pch -o /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-hgutifzvirnjvlaidihjrfppkkld/SwapMeSolver_Prefix.pch.gch0#
+

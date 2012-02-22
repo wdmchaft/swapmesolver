@@ -1,0 +1,115 @@
+TSwapMeSolver
+v7
+r0
+t305622632.339154
+cCheck dependencies
+cProcessPCH /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-cqqmpptkrhyhzxcczhdyszaqczto/SwapMeSolver_Prefix.pch.gch SwapMeSolver_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SwapMeSolver.build/Debug/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.o /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/lwy08/Documents/SwapMeSolver/build/Debug/SwapMeSolver normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5B440F00000000000000EE
+t1281049615
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC1384E0000000000B37440
+t1270954062
+s11760704
+
+N/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m
+c000000004C8736C100000000000000EA
+t1283929793
+s234
+i<Foundation/Foundation.h>
+
+N/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver_Prefix.pch
+c000000004C8736C100000000000000A6
+t1283929793
+s166
+i<Foundation/Foundation.h>
+
+N/Users/lwy08/Documents/SwapMeSolver/build/Debug/SwapMeSolver
+t1283929801
+s9288
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.o
+t2
+s0
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.LinkFileList
+c000000004C8736C7000000000000007B
+t1283929799
+s123
+
+N/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.o
+t1283929801
+s6956
+
+N/var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-cqqmpptkrhyhzxcczhdyszaqczto/SwapMeSolver_Prefix.pch.gch
+t1283929801
+s41401104
+
+N/var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-gqgkonipnsnloeanllwzcaikenyy/SwapMeSolver_Prefix.pch.gch
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305622632#305622632#0(0"0(0#1#0"8606704576#0"0#
+
+CCompileC build/SwapMeSolver.build/Debug/SwapMeSolver.build/Objects-normal/i386/SwapMeSolver.o /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SwapMeSolver.build/Debug/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.o /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305622601.306183
+e305622601.417807
+r1
+xCompileC
+xbuild/SwapMeSolver.build/Debug/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.o
+x/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m305622601#305622601#0(0"0(0#0#50"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m8600250944#1533"    cd /Users/lwy08/Documents/SwapMeSolver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -F/Users/lwy08/Documents/SwapMeSolver/build/Debug -I/Users/lwy08/Documents/SwapMeSolver/build/Debug/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/DerivedSources/x86_64 -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/DerivedSources -include /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-cqqmpptkrhyhzxcczhdyszaqczto/SwapMeSolver_Prefix.pch -c /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver.m -o /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.o0#
+
+CLd /Users/lwy08/Documents/SwapMeSolver/build/Debug/SwapMeSolver normal i386
+r0
+
+CLd /Users/lwy08/Documents/SwapMeSolver/build/Debug/SwapMeSolver normal x86_64
+s305622601.417928
+e305622601.535935
+r1
+xLd
+x/Users/lwy08/Documents/SwapMeSolver/build/Debug/SwapMeSolver
+xnormal
+xx86_64
+lSLF07#2@65"Link /Users/lwy08/Documents/SwapMeSolver/build/Debug/SwapMeSolver305622601#305622601#0(0"0(0#0#0"8601043072#525"    cd /Users/lwy08/Documents/SwapMeSolver    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/lwy08/Documents/SwapMeSolver/build/Debug -F/Users/lwy08/Documents/SwapMeSolver/build/Debug -filelist /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/Objects-normal/x86_64/SwapMeSolver.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/lwy08/Documents/SwapMeSolver/build/Debug/SwapMeSolver0#
+
+CProcessPCH /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-cqqmpptkrhyhzxcczhdyszaqczto/SwapMeSolver_Prefix.pch.gch SwapMeSolver_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s305622599.203337
+e305622601.305989
+r1
+xProcessPCH
+x/var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-cqqmpptkrhyhzxcczhdyszaqczto/SwapMeSolver_Prefix.pch.gch
+xSwapMeSolver_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SwapMeSolver_Prefix.pch305622599#305622601#0(0"0(0#0#59"/Users/lwy08/Documents/SwapMeSolver/SwapMeSolver_Prefix.pch8102096063640579072#1421"    cd /Users/lwy08/Documents/SwapMeSolver    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/SwapMeSolver-generated-files.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/SwapMeSolver-own-target-headers.hmap -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/SwapMeSolver-all-target-headers.hmap -iquote /Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/SwapMeSolver-project-headers.hmap -F/Users/lwy08/Documents/SwapMeSolver/build/Debug -I/Users/lwy08/Documents/SwapMeSolver/build/Debug/include -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/DerivedSources/x86_64 -I/Users/lwy08/Documents/SwapMeSolver/build/SwapMeSolver.build/Debug/SwapMeSolver.build/DerivedSources -c /Users/lwy08/Documents/SwapMeSolver/SwapMeSolver_Prefix.pch -o /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-cqqmpptkrhyhzxcczhdyszaqczto/SwapMeSolver_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/5f/5fVlveAiEA0sXtunMNaYIU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SwapMeSolver_Prefix-gqgkonipnsnloeanllwzcaikenyy/SwapMeSolver_Prefix.pch.gch SwapMeSolver_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
